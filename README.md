@@ -7,7 +7,7 @@ This Python code takes user input for a text prompt, sets the OpenAI API key, an
 This code requires the installation of the OpenAI package which can be installed via pip<br>
 > pip install openai
 
-##How to Use<br>
+## How to Use<br>
 1.Set your OpenAI API key in the "Enter your API_Key" field.<br>
 2.Run the code.<br>
 3.Enter the prompt when prompted by the code.<br>
